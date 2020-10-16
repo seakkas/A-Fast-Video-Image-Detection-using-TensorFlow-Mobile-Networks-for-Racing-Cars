@@ -63,7 +63,7 @@ cd ../..
 
 
 
-## Protobuf-compiler installation
+## Protobuf-compiler Installation
 
 ```
 cd models/research
@@ -76,7 +76,7 @@ unzip protobuf.zip
 
 
 
-## Check installation
+## Check Installation
 
 ```
 # you should be in models/research directory
@@ -87,7 +87,7 @@ If you see any errors related to protobuf, please check this page: https://githu
 
 
 
-## Data preparation
+## Data Preparation
 
 ```
 cd ../../
@@ -116,7 +116,7 @@ You can see model codes in `models/research/slim/nets` folder. Note that you wil
 
 
 
-## `pipeline.config`:
+## pipeline.config:
 
 `pipeline.config` files are under `ssd_mobilenet_v1_quantized_coco` ,
 `ssd_mobilenet_v2_quantized_coco` , and `ssd_resnet_50_fpn_coco` contain hyper parameters.
@@ -149,7 +149,7 @@ If you run it on CPU, it will generate `time_video_bench_CPU.txt` file.
 
 
 
-## Generating a Labeled video
+## Generating a Labeled Video
 
 `generate_labeled_video.py` will generate a labeled video. However, you should update the source video file in the code.
 
