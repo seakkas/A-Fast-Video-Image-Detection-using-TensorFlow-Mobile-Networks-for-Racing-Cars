@@ -110,20 +110,20 @@ python automated_converter.py
 
 
 
-## Models:
+## Models
 
 You can see model codes in `models/research/slim/nets` folder. Note that you will have this folder if you cloned TensorFlow Models.
 
 
 
-## pipeline.config:
+## pipeline.config
 
 `pipeline.config` files contain hyper parameters. They are under `ssd_mobilenet_v1_quantized_coco` ,
 `ssd_mobilenet_v2_quantized_coco` , and `ssd_resnet_50_fpn_coco` folders.
 
 
 
-## Training:
+## Training
 
 To train SSD MobileNetV1:
 
