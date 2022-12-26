@@ -1,9 +1,9 @@
-# IndyCar - RaceCar Detection
+# A Fast Video Image Detection using TensorFlow Mobile Networks for Racing Cars
 
 *Selahattin Akkas\*, Sahaj Singh Maini, Judy Qiu*
 
 This repo contains our dataset and the code for our paper [A Fast Video Image Detection using TensorFlow
-Mobile Networks for Racing Cars](http://ipcc.soic.iu.edu/WebsitePaper/conference_workshop/A%20Fast%20Video.pdf).
+Mobile Networks for Racing Cars](https://ieeexplore.ieee.org/document/9005689).
 
 
 
